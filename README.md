@@ -21,6 +21,9 @@ This project involves building a robust Cloud Data Platform using Azure Synapse 
 * Integrate Power BI within Synapse Studio to create interactive and insightful reports.
 * Power BI connects directly to the Gold layer, where the refined and aggregated data is stored, facilitating real-time reporting and visualization.
 * These reports provide stakeholders with actionable insights, enabling data-driven decision-making.
+![Taxi Demand Analysis](https://github.com/pasupathieswaran/Azure-Synapse-NYC-Taxi/assets/54660910/db6ea979-0738-4367-879a-961cbcebd813)
+![Card Payment Campaign Analysis](https://github.com/pasupathieswaran/Azure-Synapse-NYC-Taxi/assets/54660910/8217cdb7-0a78-4605-a3eb-3262ae30ddd9)
+
 ##### Benefits and Outcomes:
 * *Scalability*: The use of Azure Synapse ensures that the platform can scale seamlessly with the growing volume of NYC Taxi data.
 * *Performance*: Storing data in the Parquet format and using Serverless SQL Pool enhances query performance and reduces latency.
